@@ -24,6 +24,6 @@ Research on cybersecurity and system optimization
 📫 How to reach me:
 
 Feel free to explore my GitHub repositories or connect with me through my email: 
-hsantosdias+git@yahoo.com.br
+hsantosdias+git@gmail.com
 or 
 https://www.linkedin.com/in/hsantosdias/
