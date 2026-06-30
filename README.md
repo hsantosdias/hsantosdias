@@ -143,8 +143,7 @@ A practical journey through version control, collaboration and software organiza
 
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com?user=hsantosdias&theme=radical&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hsantosdias&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsantosdias&theme=github-compact"/>
 
