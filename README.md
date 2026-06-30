@@ -46,7 +46,15 @@ I am deeply passionate about **educational robotics** and **embedded systems**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsantosdias&theme=radical&hide_border=true" alt="hsantosdias's Streak" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hsantosdias&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsantosdias&layout=compact&theme=radical"/>
+
+<img src="https://streak-stats.demolab.com?user=hsantosdias&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hsantosdias&theme=github-compact"/>
+
 </div>
 
 ---
